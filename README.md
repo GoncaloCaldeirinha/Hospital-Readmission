@@ -1,2 +1,4 @@
 # Hospital-Readmission
 Master's project for the Machine Learning course
+
+This repository contains the Machine Learning project 'Hospital Readmission', a comprehensive analysis aiming to predict hospital readmissions within 30 days. The project utilizes a dataset of 71,236 observations to develop binary and multiclass classification models. Techniques applied include data preprocessing, feature engineering, outlier handling, and model optimization with methods like SMOTE for addressing class imbalance, and advanced machine learning models such as Random Forest and SVM. This work is intended to provide healthcare providers with tools to improve patient care and manage healthcare resources more effectively. Results, visualizations, and code are documented thoroughly to facilitate replication and further research.
